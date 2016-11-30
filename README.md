@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi! humans
+I like here! I want to make my life getting better!(MLGB)
